@@ -1,3 +1,7 @@
+Run on mybinder.org:
+
+https://mybinder.org/v2/gh/op07n/streamlit-nlg-gpt-2.git/master?urlpath=proxy/8501/
+
 # Natural Language Generation with GPT-2
 A [simple demonstration](https://github.com/CaliberAI/streamlit-get-stories-aylien) of using [Streamlit](https://streamlit.io/) with [HuggingFace's GPT-2](https://github.com/huggingface/transformers/).
 
